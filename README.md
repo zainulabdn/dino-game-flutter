@@ -1,2 +1,2 @@
 # Dino_Game_Flutter
-chorme's dino game built with Flutter
+Chorme's dino game was built with Flutter
