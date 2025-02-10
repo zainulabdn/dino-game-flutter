@@ -1,4 +1,4 @@
-# Dino_Game_Flutter
+# Dino Game Flutter
 ##
 # Chorme's Dino Game was Built with Flutter Dart
 <p align="center">
